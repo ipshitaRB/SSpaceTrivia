@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">Space Trivia</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="play">Play</string>
     <string name="space_trivia">Space Trivia</string>
-    <string name="demo_question">Which planet are you on?</string>
+    <string name="demo_question">Which planet are you from?</string>
+    <string name="demo_opt1">Mars</string>
+    <string name="demo_opt2">Jupiter</string>
+    <string name="demo_opt3">Earth</string>
+    <string name="demo_opt4">Pluto</string>
 </resources>
